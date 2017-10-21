@@ -1,0 +1,10 @@
+.cancha {
+	width: 693px;
+	height:345px;
+	background-color: #7CBB79;
+	}
+.bordeP {
+	width: 200px
+	margin: 10px;
+	border-color: white;
+}
